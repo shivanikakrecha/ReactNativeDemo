@@ -4,12 +4,8 @@
 3. React-Native CLI
 4. Expo app (install into physical mobile device)
 
-# Installtion Steps :-
-# Step 1 :-
-Clone this project into your device.
-
 # Create Your New React-Native App Installtion Steps :- 
-# Step 1 :- 
+* Step 1 :- 
 Install Node.js or NPM using bellow commnad.
 ```
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
@@ -24,7 +20,7 @@ Now verify your version of installed NPM or Node.js using given commnad.
 > npm -v
 > 6.2.0
 ```
-# Step 2 :-
+* Step 2 :-
 Install The React Native CLI.
 ```
 npm install -g react-native-cli
@@ -38,8 +34,9 @@ Now start your app with following commnads.
 cd <Your_AppName>
 npm start
 ```
+Now copy this all files into your project. 
 
-# step 3 :-
+* step 3 :-
 Download Expo app into your mobile device from playstore. (Android or IOS) There is avilable app for both OS. 
 More details please visit this [link](https://expo.io/) .
 
