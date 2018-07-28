@@ -27,6 +27,7 @@ npm install -g react-native-cli
 ```
 Then run the following commands to create a new React Native project.
 ```
+npm install -g create-react-native-app
 create-react-native-app <Your_AppName>
 ```
 Now start your app with following commnads.
